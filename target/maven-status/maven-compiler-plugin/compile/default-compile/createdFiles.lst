@@ -1,0 +1,6 @@
+com\upiiz\relaciones\models\Perfil.class
+com\upiiz\relaciones\models\Curso.class
+com\upiiz\relaciones\RelacionesApplication.class
+com\upiiz\relaciones\models\Tutor.class
+com\upiiz\relaciones\models\Estudiante.class
+com\upiiz\relaciones\models\Leccion.class
